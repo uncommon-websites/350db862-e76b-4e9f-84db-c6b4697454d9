@@ -21,9 +21,9 @@ A minimalist teaser for the about page.
 
 	// Data
 	const teamMember: TeamMember = {
-		name: "Alex Morgan",
-		role: "Founder & CEO",
-		image: "https://www.unc.mn/image-placeholder.svg"
+		name: "Viviana Castillo",
+		role: "Co-Founder & Owner",
+		image: "/generated/image-a-confident-professional-woman-who-owns-.webp"
 	};
 </script>
 

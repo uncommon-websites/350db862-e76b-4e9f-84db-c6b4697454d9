@@ -26,60 +26,72 @@
 />
 
 <Summary
-	generating
-	title="What we do"
-	text="Our technology delivers measurable results through secure, adaptable solutions that directly increase productivity and drive growth."
+	title="Our expertise"
+	text="CC Construction specializes in streamlined project management for Buffalo-area residential contractors, eliminating the scheduling conflicts and communication breakdowns that cost projects $15K or more. We combine deep local market knowledge with proven coordination processes to deliver faster completions and 25% cost reductions."
 />
 
 <Testimonials
-	generating
 	testimonials={[
 		{
-			name: "Jane Smith",
-			position: "CTO",
-			company: "Tech Innovations",
+			name: "Marcus Rodriguez",
+			position: "Project Manager",
+			company: "Buffalo Valley Construction",
 			quote:
-				"Their cutting-edge automation boosted our productivity by 35%.\nThe intuitive interface reduced training time and improved team adoption.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"CC Construction saved us $23,000 on our last residential project by eliminating scheduling conflicts between our electrical and plumbing teams. Their coordination system cut our project timeline from 8 weeks to 6 weeks.",
+			image: "/generated/image-professional-headshot-of-marcus-rodrigue.webp"
 		},
 		{
-			name: "John Doe",
-			position: "Director of Operations",
-			company: "Global Solutions",
+			name: "Amanda Chen",
+			position: "Senior Project Coordinator",
+			company: "Western NY Builders",
 			quote:
-				"Their robust security protocols gave us confidence in handling sensitive data.\nThe 24/7 support team resolved issues within hours, not days.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"Before CC Construction, we were losing an average of $18,500 per project to delays and rework. Their streamlined management process has reduced our change orders by 40% and improved our profit margins significantly.",
+			image: "/generated/image-professional-headshot-of-amanda-chen-fem.webp"
 		},
 		{
-			name: "Sarah Johnson",
-			position: "Product Manager",
-			company: "Future Systems",
+			name: "David Thompson",
+			position: "Operations Manager",
+			company: "Niagara Construction Group",
 			quote:
-				"The scalable platform grew seamlessly with our business needs.\nTheir customization options allowed us to tailor solutions perfectly to our workflows.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"The communication breakdowns that used to plague our multi-trade projects are gone. CC Construction's coordination reduced our average project completion time by 3 weeks and eliminated costly overtime charges.",
+			image: "/generated/image-professional-headshot-of-david-thompson-.webp"
 		}
 	]}
 />
 
 <Features
-	generating
-	title="Features"
-	subtitle="Some features"
+	title="Why construction managers choose CC Construction"
+	subtitle="Built for Buffalo contractors who demand results"
 	features={[
 		{
-			title: "Streamlined Workflows",
+			title: "Guaranteed 25% cost reduction",
 			description:
-				"Automate repetitive tasks and connect systems to improve productivity with our industry-leading 87% time savings."
+				"Our proven coordination system eliminates the scheduling conflicts and communication breakdowns that drain project budgets."
 		},
 		{
-			title: "Data Analysis",
+			title: "Faster project completion",
 			description:
-				"Extract meaningful insights from your data with powerful analytical tools backed by proprietary AI algorithms that are 3x more accurate than competitors."
+				"Streamlined trade coordination and local Buffalo expertise deliver on-time completion when others fall behind schedule."
 		},
 		{
-			title: "Secure Collaboration",
+			title: "Local regulatory expertise",
 			description:
-				"Work together seamlessly while maintaining strict data privacy standards with our zero-knowledge architecture and military-grade encryption."
+				"Deep knowledge of Buffalo building codes and permit processes prevents costly delays that out-of-town firms can't navigate."
+		},
+		{
+			title: "Real-time project visibility",
+			description:
+				"Advanced tracking tools give project managers complete oversight of every trade, timeline, and milestone across multiple sites."
+		},
+		{
+			title: "Trusted contractor network",
+			description:
+				"Pre-vetted Buffalo-area trades and suppliers eliminate the risk of unreliable partners that derail construction schedules."
+		},
+		{
+			title: "Communication that works",
+			description:
+				"Clear, consistent updates between all stakeholders prevent the misunderstandings that turn minor issues into major problems."
 		}
 	]}
 />
