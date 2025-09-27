@@ -10,12 +10,20 @@
 </script>
 
 <Hero
-	title="Elevate your business with thoughtful design"
-	subtitle="Solutions that enhance user experience, and improve visual communication."
-	imageSrc="https://www.unc.mn/image-placeholder.svg"
-	generating
+	title="Stop losing $15K per project to scheduling chaos"
+	subtitle="Buffalo's trusted construction management experts deliver 25% cost reduction and faster project completion through streamlined coordination that eliminates costly delays."
+	imageSrc="/generated/image-a-professional-construction-project-mana.webp"
+	centered={false}
 />
-<LogoScroller label="" generating />
+<LogoScroller 
+	label="Trusted by industry leaders"
+	logoUrls={[
+		'https://cdn.brandfetch.io/turnerconstruction.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/skanska.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/clarkconstruction.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/gilbaneco.com/w/400/h/400/logo'
+	]}
+/>
 
 <Summary
 	generating
