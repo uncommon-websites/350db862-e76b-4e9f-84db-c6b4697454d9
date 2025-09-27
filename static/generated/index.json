@@ -4,6 +4,7 @@
     "filename": "/generated/image-a-professional-construction-project-mana.webp"
   },
   {
+<<<<<<< HEAD
     "prompt": "Professional headshot of Marcus Rodriguez, construction project manager, smiling confidently at a busy outdoor job site, wearing a collared shirt and safety vest, with construction activity and workers blurred in the background, natural daylight, warm and approachable expression, realistic style",
     "filename": "/generated/image-professional-headshot-of-marcus-rodrigue.webp"
   },
@@ -18,5 +19,13 @@
   {
     "prompt": "A confident professional woman who owns a construction business, standing in a modern, well-lit office. She is dressed in smart business attire, with subtle construction elements like blueprints or a hard hat on a nearby desk. The office features large windows, indoor plants, and tasteful decor. The environment feels welcoming and professional. The woman has an approachable and self-assured demeanor.",
     "filename": "/generated/image-a-confident-professional-woman-who-owns-.webp"
+=======
+    "prompt": "A professional construction project manager stands confidently in a modern construction site office, smiling warmly. The manager is reviewing large paper blueprints on a desk, with a hard hat resting nearby. Through the window, a successful construction project is visible in progress, set in Buffalo. The environment is filled with natural light, featuring real construction equipment and materials outside. The scene conveys organization, professionalism, and accomplishment, with varied details such as different times of day, wardrobe colors, and construction stages for visual variety.",
+    "filename": "/generated/image-a-professional-construction-project-mana.webp"
+  },
+  {
+    "prompt": "A cheerful construction project manager on site, holding blueprints and smiling confidently. The manager is dressed in a safety vest and hard hat, surrounded by a partially built structure and a few workers in the background. The environment shows natural lighting and a realistic, vibrant setting with building materials and tools around.",
+    "filename": "/generated/image-a-cheerful-construction-project-manager-.webp"
+>>>>>>> cc27aa076f3d218178def7bb157cd802032ac2f1
   }
 ]

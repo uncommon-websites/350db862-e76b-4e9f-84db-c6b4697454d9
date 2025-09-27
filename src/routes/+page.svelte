@@ -95,5 +95,22 @@
 		}
 	]}
 />
-<AboutTeaser generating />
-<CallToAction generating />
+<AboutTeaser />
+<CallToAction 
+	title="Stop losing margin to miscommunication and delays"
+	subtitle="Start building smarter"
+	description="Talk to CC Construction today and finish your next project faster—with less stress and 25% lower costs. Buffalo's trusted construction management experts eliminate the scheduling chaos that costs you $15K+ per project."
+	imageSrc="/generated/image-a-professional-construction-project-mana.webp"
+	callsToAction={[
+		{
+			href: "/contact",
+			label: "Get Started",
+			variant: "primary"
+		},
+		{
+			href: "/contact",
+			label: "Schedule Consultation",
+			variant: "secondary"
+		}
+	]}
+/>

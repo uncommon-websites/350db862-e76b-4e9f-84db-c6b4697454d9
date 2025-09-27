@@ -11,16 +11,16 @@
 	// Constants
 	const values = [
 		{
-			title: "Innovation",
-			description: "Constantly challenging the status quo to create better solutions."
+			title: "Local expertise",
+			description: "Deep understanding of Buffalo's unique construction landscape, regulations, and market dynamics."
 		},
 		{
-			title: "Integrity",
-			description: "Building trust through transparent actions and honest communication."
+			title: "Efficient processes",
+			description: "Streamlined project management that eliminates costly scheduling conflicts and communication breakdowns."
 		},
 		{
-			title: "Impact",
-			description: "Measuring our success by the positive change we create for our clients."
+			title: "Proven results",
+			description: "Consistently delivering projects faster while reducing costs by 25% through optimized workflows."
 		}
 	];
 </script>
@@ -44,61 +44,33 @@
 />
 
 <!-- Our Culture Section -->
-<Culture {values} generating />
+<Culture {values} />
 
 <!-- StakeholderGrid Section -->
 <StakeholderGrid
-	generating
 	stakeholderType="team"
-	title="Our team."
-	subtitle="Your partners in innovation."
+	title="Our founders."
+	subtitle="Local Buffalo expertise driving construction excellence."
 	stakeholders={[
 		{
-			name: "Alex Morgan",
-			position: "Founder & CEO",
-			bio: "Started the company with a vision to transform the industry through innovative solutions.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+			name: "Viviana Castillo",
+			position: "Owner",
+			bio: "Bringing years of construction industry experience and deep understanding of Buffalo's unique market dynamics to deliver exceptional project outcomes.",
+			image: "/generated/image-professional-headshot-of-a-hispanic-woma.webp"
 		},
 		{
-			name: "Jamie Chen",
-			position: "Chief Design Officer",
-			bio: "Award-winning designer with a passion for creating intuitive and beautiful experiences.",
-			image: "https://www.unc.mn/image-placeholder.svg"
-		},
-		{
-			name: "Taylor Wright",
-			position: "Head of Engineering",
-			bio: "Technology enthusiast focused on building scalable systems that make a difference.",
-			image: "https://www.unc.mn/image-placeholder.svg"
-		}
-	]}
-/>
-
-<StakeholderGrid
-	generating
-	stakeholderType="investor"
-	title="Backed by the best."
-	subtitle="Point Nine, TSIC and others"
-	stakeholders={[
-		{
-			name: "Point Nine Capital",
-			image: "https://cdn.brandfetch.io/pointnine.com/w/400/h/400/logo?c=1id_elLz2Bd5Ej-dWo7"
-		},
-		{
-			name: "TSIC Ventures",
-			image: "https://cdn.brandfetch.io/tiny.vc/w/400/h/400/logo?c=1a2b3c4d5e"
-		},
-		{
-			name: "Sequoia Capital",
-			image: "https://cdn.brandfetch.io/sequoiacap.com/w/400/h/400/logo"
+			name: "Christian Castillo",
+			position: "Owner",
+			bio: "Focused on streamlining construction management processes and building strong relationships with local contractors across the Buffalo area.",
+			image: "/generated/image-professional-headshot-of-a-hispanic-man-.webp"
 		}
 	]}
 />
 
 <!-- CTA Section -->
 <CallToAction
-	generating
-	title="Ready to collaborate?"
-	subtitle="Let's create something amazing"
-	description="Join the companies already leveraging our expertise to transform their digital presence and achieve their business goals."
+	title="Start your next project"
+	subtitle="with local Buffalo expertise"
+	description="Join the contractors already saving $15K+ per project through streamlined management and faster completion times."
+	imageSrc="/generated/image-a-cheerful-construction-project-manager-.webp"
 />
